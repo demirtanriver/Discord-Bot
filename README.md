@@ -1,0 +1,1 @@
+This is a Discord Bot made using python with discord.py that responds to text messages and can join voice channels to play audio from a URL. It is able to reply to text messages sent by a user and has custom prefixes for private replies.
